@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... Software Engineering at University of Kelaniya Sri Lanka 
 - 💞️ I’m looking to collaborate on ... any project that the team is friendly and fun to work with lo tecnology restrictions if can talk and settle.
 - 📫 How to reach me mail me using nayanthayasiru@gmail.com.
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nayantha-yasiru/) Find my @ LinkedIn
 
 <!---
 Nayantha/Nayantha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
